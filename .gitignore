@@ -1,0 +1,11 @@
+# Ignore temp files
+tempcoderunner
+*.exe
+*.out
+*.o
+*.obj
+*.log
+
+# Ignore Python cache (if using ui.py)
+__pycache__/
+*.pyc
